@@ -1,0 +1,10 @@
+# coding:utf-8
+
+ALLOCINE_SELF_CODE = 
+ALLOCINE_PARTNER_CODE = 
+TYPE_MOVIE = 'movie'
+TYPE_TVSERIES = 'tvseries'
+PYNMA_KEY = 
+MOVIE_HD_PATH = 
+TVSERIES_PATH = 
+MOVIE_EXTENSIONS_LIST = {'.avi', '.mp4', '.mkv'}
